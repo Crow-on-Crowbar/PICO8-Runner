@@ -2,7 +2,8 @@
   "name": "pico8-runner",
   "displayName": "PICO-8 Runner",
   "description": "Run PICO-8 from vscode with ease.",
-  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "version": "0.0.2",
   "publisher": "CrowonCrowbar",
   "engines": {
     "vscode": "^1.102.0"
